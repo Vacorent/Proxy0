@@ -18,7 +18,7 @@
 
 ## Usage
 
-> npm start\
+> npm start
 
 ## Requirements
 
